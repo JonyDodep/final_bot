@@ -3,18 +3,17 @@
 Бот переводчик, умеющий переводить на 5 разных языков картинки, текст и голосовые
 
 ## Как его запустить?
-### Откройте телеграмм
-* Найдите бота
+### Склонируйте репозиторий
 ```
-@idontknowhowicannamemybot_bot
+git clone https://github.com/JonyDodep/final_bot.git
 ```
-* Запустите его
+* Установите зависимости
 ```
-/start
+pip install -r requirements.txt 
 ```
-* И можете переводить (для помощи:)
+* Запустите бота
 ```
-/help
+python indontknowhowicannamemybot_bot
 ```
 
 ## Автор проекта
