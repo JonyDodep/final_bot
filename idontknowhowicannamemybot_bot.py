@@ -9,7 +9,7 @@ from pydub import AudioSegment
 import pytesseract
 from PIL import Image
 
-TOKEN = "8098113119:AAHmtZfeo8q9s2ne4uzzEdL-ghW_HW4ccdI"
+TOKEN = ""
 
 
 bot = Bot(token=TOKEN)
